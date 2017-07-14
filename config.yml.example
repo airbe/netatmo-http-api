@@ -1,0 +1,7 @@
+client_id: netatmo_client_id
+client_secret: netatmo_client_secret
+username: e@mail.com
+password: netatmo_password
+http_port: 8000
+http_addr: "127.0.0.1"
+
